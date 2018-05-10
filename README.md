@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HW3 Filesystem #
 
 A file system
@@ -32,3 +33,6 @@ TODO:
 `make`:  Builds to `filesystem` executable.
 
 `make clean`: Removes executable.
+=======
+# cs492-assignment3
+>>>>>>> e7354f9a0b61844736d10ee52af58375c24e7ca9
