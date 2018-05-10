@@ -1,0 +1,9 @@
+  9706304      4 -rw-rw-r--   1 lauren   lauren        119 Apr 24 13:37 root/dir2/file5.txt
+  9706303      0 -rw-rw-r--   1 lauren   lauren          0 Apr 18 12:48 root/dir1/file4.txt
+ 13521144      4 -rw-rw-r--   1 lauren   lauren         22 Apr 24 13:37 root/dir1/subdir1/subfile1.txt
+  9706301      0 -rw-rw-r--   1 lauren   lauren          0 Apr 18 12:47 root/file1.txt
+  9706305      4 -rw-rw-r--   1 lauren   lauren         16 Apr 24 13:38 root/dir3/file6.txt
+  9706313      0 -rw-rw-r--   1 lauren   lauren          0 Apr 24 13:38 root/dir3/emptyfile.txt
+  9706302      0 -rw-rw-r--   1 lauren   lauren          16 Apr 18 12:47 root/file2.txt
+  9706302      0 -rw-rw-r--   1 lauren   lauren          32 Apr 18 12:47 root/t
+  9706302      0 -rw-rw-r--   1 lauren   lauren          17 Apr 18 12:47 root/z
